@@ -21,7 +21,7 @@ return {
     base07 = "c8ccd4", -- #c8ccd4
     base05 = "abb2bf", -- #abb2bf
     base0E = "997bc1", -- #997bc1
-    base0D = "93bfce", -- #93bfce
+    base0D = "93bfce", -- #93bfce #3E78B2
     base0C = "56b6c2", -- #56b6c2
     base0B = "a3be8c", -- #a3be8c
     base02 = "3e4451", -- #3e4451
