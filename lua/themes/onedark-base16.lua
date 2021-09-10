@@ -20,7 +20,7 @@ return {
     base04 = "565c64", -- #565c64
     base07 = "c8ccd4", -- #c8ccd4
     base05 = "abb2bf", -- #abb2bf
-    base0E = "ae90d6", -- #ae90d6
+    base0E = "c678dd", -- #c678dd
     base0D = "93bfce", -- #93bfce
     base0C = "56b6c2", -- #56b6c2
     base0B = "98c379", -- #98c379
@@ -30,6 +30,6 @@ return {
     base08 = "88c0d0", -- #88c0d0
     base01 = "353b45", -- #353b45
     base00 = "1e222a", -- #1e222a
-    base09 = "d19a66", -- #d19a66
+    base09 = "ae90d6", -- #ae90d6
     base06 = "b6bdca"  -- #b6bdca
 }
